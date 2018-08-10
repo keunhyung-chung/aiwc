@@ -1,0 +1,2 @@
+model_checkpoint_path: "aiwc_maddpg"
+all_model_checkpoint_paths: "aiwc_maddpg"
